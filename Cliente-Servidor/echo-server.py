@@ -19,7 +19,7 @@ import sys
 import argparse
 
 host = ''
-data_payload = 2048
+data_payload = 128
 backlog = 5 # valor que recibe la funcion socket.listen()
 
 def echo_server(port): 
