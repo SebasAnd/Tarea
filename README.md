@@ -1,7 +1,7 @@
 # Tarea Redes
 
 Andres Cortes - 1332345  
-Jhonatan Noguera - 1329700
+Jhonatan Noguera - 1329700  
 Eduard Efren Arango - 1325584
 
 ### Metodo de ejecución Sockets
