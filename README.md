@@ -3,7 +3,7 @@
 Andres Cortes - 1332345  
 Jhonatan Noguera - 1329700   
 
-### Metodo de ejecución
+### Metodo de ejecución Sockets
 
 Para ejecutar los siguientes programas es necesario usar la consola del sistema. y colocar el comando   
 ``python nombredelarchivo.py`` 
@@ -18,7 +18,7 @@ Para ejecutar los siguientes programas es necesario usar la consola del sistema.
 
 - socket-05.py: Extension de socket-04.py, imprimer en pantalla la respuesta del servidor
 
-### Metodo de ejecución
+### Metodo de ejecución Cliente-Servidor
 
 Para ejecutar los siguientes programas es necesario usar la consola del sistema. y colocar el comando   
 ``python nombredelarchivo.py --port NrodePuerto`` 
